@@ -11,4 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I am Suhail, a Computer Science and Engineering student. I am passionate about Machine Learning and deep learning. I am actively looking for research internship in the domain of Computer Vision and Natural Language Processing.
+## I am Suhail, a Computer Science and Engineering student. 
+I am passionate about Machine Learning and deep learning. I am actively looking for research internship in the domain of Computer Vision and Natural Language Processing.
+![Visitor Count](https://profile-counter.glitch.me/Suhail-BW/count.svg)
