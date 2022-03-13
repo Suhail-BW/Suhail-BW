@@ -13,4 +13,8 @@
 -->
 ## I am Suhail, a Computer Science and Engineering student. 
 I am passionate about Machine Learning and deep learning. I am actively looking for research internship in the domain of Computer Vision and Natural Language Processing.
+
 ![Visitor Count](https://profile-counter.glitch.me/Suhail-BW/count.svg)
+
+### Connect with me:
+[<img align="left" alt="SuhailB15895179 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
