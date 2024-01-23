@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 ## I am Suhail, a masters sutdent in Artificial Intelligence at university of Oulu, Finland. 
-I am passionate about Machine Learning and deep learning. I am actively looking for research internship in the domain of Computer Vision and Natural Language Processing.
+I am passionate about Machine Learning and deep learning.
 
 ![Visitor Count](https://profile-counter.glitch.me/Suhail-BW/count.svg)
 
